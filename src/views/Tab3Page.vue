@@ -24,6 +24,6 @@ import {
 	IonPage,
 	IonTitle,
 	IonToolbar,
-} from "@ionic/vue";
-import ExploreContainer from "@/components/ExploreContainer.vue";
+} from '@ionic/vue';
+import ExploreContainer from '@/components/ExploreContainer.vue';
 </script>

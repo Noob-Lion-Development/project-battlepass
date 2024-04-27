@@ -31,6 +31,6 @@ import {
 	IonTabBar,
 	IonTabButton,
 	IonTabs,
-} from "@ionic/vue";
-import { ellipse, square, triangle } from "ionicons/icons";
+} from '@ionic/vue';
+import { ellipse, square, triangle } from 'ionicons/icons';
 </script>
