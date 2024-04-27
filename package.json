@@ -13,8 +13,10 @@
 		"prettier": "npx prettier . --write",
 		"prepare": "husky",
 		"sync": "ionic capacitor sync",
-		"android": "ionic capacitor open android",
-		"ios": "ionic capacitor open ios"
+		"android:open": "ionic capacitor open android",
+		"android:run": "ionic capacitor run android",
+		"ios:open": "ionic capacitor open ios",
+		"ios:run": "ionic capacitor run ios"
 	},
 	"lint-staged": {
 		"**/*": "prettier --write --ignore-unknown"
